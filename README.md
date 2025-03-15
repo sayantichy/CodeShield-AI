@@ -51,7 +51,7 @@ Stable internet connection for accessing the web application
 
 **Chatbot**: Power Virtual Agents
 
-**Hosting**: Azure App Services
+
 
 ## Screenshots
 
